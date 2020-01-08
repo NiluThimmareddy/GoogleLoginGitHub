@@ -13,6 +13,7 @@
 		A9421E6B23C5B3BF0033DE27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9421E6923C5B3BF0033DE27 /* Main.storyboard */; };
 		A9421E6D23C5B3C30033DE27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9421E6C23C5B3C30033DE27 /* Assets.xcassets */; };
 		A9421E7023C5B3C30033DE27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9421E6E23C5B3C30033DE27 /* LaunchScreen.storyboard */; };
+		A9421E7823C5BDF30033DE27 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9421E7723C5BDF30033DE27 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A9421E6C23C5B3C30033DE27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9421E6F23C5B3C30033DE27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9421E7123C5B3C30033DE27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9421E7723C5BDF30033DE27 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A9421E6C23C5B3C30033DE27 /* Assets.xcassets */,
 				A9421E6E23C5B3C30033DE27 /* LaunchScreen.storyboard */,
 				A9421E7123C5B3C30033DE27 /* Info.plist */,
+				A9421E7723C5BDF30033DE27 /* DetailsViewController.swift */,
 			);
 			path = GoogleLoginGitHub;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				A9421E6823C5B3BF0033DE27 /* ViewController.swift in Sources */,
 				A9421E6423C5B3BF0033DE27 /* AppDelegate.swift in Sources */,
 				A9421E6623C5B3BF0033DE27 /* SceneDelegate.swift in Sources */,
+				A9421E7823C5BDF30033DE27 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
